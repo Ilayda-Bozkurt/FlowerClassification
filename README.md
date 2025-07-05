@@ -161,3 +161,9 @@ are available in the **Jupyter Notebook** files.
 ![VGG16_FineTuning 3rd Conv Layer](figures/VGG16_FineTuning/conv3.png)
 ![VGG16_FineTuning 5th Conv Layer](figures/VGG16_FineTuning/conv5.png)
 
+
+IMPORTANT:
+This project was completed as part of the SE3508 Introduction to Artificial Intelligence course, instructed by Dr. Selim Yılmaz, Department of Software Engineering at Muğla Sıtkı Koçman University, 2025.
+
+🚫 Note: This repository must not be used by students in the same faculty in future years—whether partially or fully—as their own submission. Any form of code reuse without proper modification and original contribution will be considered by the instructor a violation of academic integrity policies.
+
